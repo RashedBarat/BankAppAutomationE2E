@@ -10,5 +10,5 @@ Feature: MortageTestPayment
     Then accept alertt
 
     Examples:
-      | fname       | lname | age | add1 | add2 |
-      | 01300000000 | abc   | 2   | abc  | xyz |
+      | fname | lname | age | add1 | add2 |
+      | Test  | Name  | 18  | Add1 | Add2 |

@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33187912-6caf-49da-af85-21abf2478247" name="Changes" comment="" />
+    <list default="true" id="33187912-6caf-49da-af85-21abf2478247" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Core/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Core/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/POM/AppElementItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POM/AppElementItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AppTestDefs/ExpenseStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AppTestDefs/ExpenseStepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AppTestDefs/LoginStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AppTestDefs/LoginStepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AppTestDefs/MortgageStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AppTestDefs/MortgageStepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AppTestDefs/PayStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AppTestDefs/PayStepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/Cucumberrunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner/Cucumberrunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/03mortagepay.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/03mortagepay.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/04expense.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/04expense.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +29,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MEDxrJWuyF1bxGbaUMnMBGlpS6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,12 +48,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;I:/SQA Tasnim Bhai/My Practice Folder/AppAutomation/src/test/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="POM" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\SQA Tasnim Bhai\My Practice Folder\AppAutomation\src\test\resources" />
+      <recent name="I:\SQA Tasnim Bhai\My Practice Folder\AppAutomation\src\test\java" />
+      <recent name="I:\SQA Tasnim Bhai\My Practice Folder\AppAutomation\src\test" />
+      <recent name="I:\SQA Tasnim Bhai\My Practice Folder\AppAutomation\src\test\resources\Features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AppTestDefs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.appTest">
+    <configuration name="I:/SQA Tasnim Bhai/My Practice Folder/AppAutomation/src/test/appTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppAutomation.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/appTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="appTest" type="TestNG">
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/appTest.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="I:\SQA Tasnim Bhai\My Practice Folder\AppAutomation\src\test\test-output" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.I:/SQA Tasnim Bhai/My Practice Folder/AppAutomation/src/test/appTest.xml" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

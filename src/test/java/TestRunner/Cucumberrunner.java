@@ -8,7 +8,7 @@ public class Cucumberrunner {
 
     @CucumberOptions(features = {"src/test/resources/Features"},
             glue = {"AppTestDefs"},
-            tags ="@app",
+            tags ="@test or @smoke or @feature1 or @feature2",
             monochrome = true,
             dryRun = false,
             plugin = {
